@@ -1,2 +1,1 @@
 # Implicit-Intent
-# Implicit-Intent
